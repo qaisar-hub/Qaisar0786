@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Qaisar0786
+- 👋 Hi, I’m Qaisar Raza.
 - 👀 I’m interested in iOS app development.
 - 🌱 I’m currently learning swift.
 
